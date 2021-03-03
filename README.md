@@ -1,4 +1,4 @@
-## Welcome to the Genomics Platform documentation
+## Welcome to the Genomics Platform
 
 
 ### Starting a Genomics project
