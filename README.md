@@ -1,37 +1,12 @@
 ## Welcome to the Genomics Platform documentation
 
-You can use the [editor on GitHub](https://github.com/DanStemGenomics/danstemgenomics.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Starting a Genomics project
 
-### Markdown
+To start a project, discuss some ideas, ask questions, or anything else related to the platform, please fill the service request form [here](https://docs.google.com/forms/d/e/1FAIpQLSdDL5n5b9VUTmzlNfrIBBPkMy2vMGx1i1L_gF8Xd82A3EMhiQ/viewform).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Working on Computerome
 
-```markdown
-Syntax highlighted code block
+To get started on Computerome, you can go to the [Computerome page](https://github.com/DanStemGenomics/danstemgenomics.github.io/computerome.md).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanStemGenomics/danstemgenomics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
