@@ -7,6 +7,6 @@ To start a project, discuss some ideas, ask questions, or anything else related 
 
 ### Working on Computerome
 
-To get started on Computerome, you can go to the [Computerome page](https://github.com/DanStemGenomics/danstemgenomics.github.io/main/computerome.md).
+To get started on Computerome, you can go to the [Computerome page](/computerome/).
 
 
