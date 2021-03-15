@@ -11,5 +11,5 @@ To get started on Computerome, you can go to the [Computerome page](/computerome
 
 ### Pipelines
 
-- [CHOR-seq / SCAR-seq](/pipeline-CHOR/)
-- 
+- [CHOR-seq / SCAR-seq](/pipeline_CHOR/)
+- [bulk RNA-seq](/pipeline_RNA/)
