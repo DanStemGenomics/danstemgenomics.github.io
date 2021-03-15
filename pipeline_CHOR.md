@@ -35,3 +35,5 @@ For paired-end, for some reason (that I don't really remember), I use cutadap di
 `cutadapt -a CTGTCTCTTATA -A CTGTCTCTTATA -q 20 -m 5 -o $R1trim -p $R2trim $R1 $R2`
 
  
+ Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
+ 
