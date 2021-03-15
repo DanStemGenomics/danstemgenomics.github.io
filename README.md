@@ -9,4 +9,7 @@ To start a project, discuss some ideas, ask questions, or anything else related 
 
 To get started on Computerome, you can go to the [Computerome page](/computerome/).
 
+### Pipelines
 
+- [CHOR-seq / SCAR-seq](/pipeline-CHOR/)
+- 
