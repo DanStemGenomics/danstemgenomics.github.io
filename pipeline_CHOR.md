@@ -34,31 +34,30 @@ Trim_galore is only a wrapper method that uses cutadapt inside. It will create a
 
 `R1trim=$OUTDIR/${NAME}_trimmed.fq.gz`
 
-For paired-end, for some reason (that I don't really remember), I use cutadap directly like that:
+For paired-end, for some reason (that I don't really remember), I use cutadapt directly like that:
 
 `cutadapt -a CTGTCTCTTATA -A CTGTCTCTTATA -q 20 -m 5 -o $R1trim -p $R2trim $R1 $R2`
 
-
- ### Step 2: Mapping to the reference genome
+### Step 2: Mapping to the reference genome
  
- Let's consider that our reference genome is mouse (mm10). We're going to map the reads with Bowtie2.
+Let's consider that our reference genome is mouse (mm10). We're going to map the reads with Bowtie2.
  
- First, we need to create our Bowtie index. Let's assume for now that you have your index here:
+First, we need to create our Bowtie index. Let's assume for now that you have your index here:
  
- `BOWTIEIDX=your/path/Mouse/mm10/Bowtie2Index/genome`
+`BOWTIEIDX=your/path/Mouse/mm10/Bowtie2Index/genome`
  
- Note that `genome` here is the prefix of all you index files in this folder.
+Note that `genome` here is the prefix of all you index files in this folder.
  
- You will map with Bowtie2, then create the BAM file and then sort the BAM file.
+You will map with Bowtie2, then create the BAM file and then sort the BAM file.
  
- We can compress all those steps like that:
+We can compress all those steps like that:
  
- `bowtie2 -x $BOWTIEIDX -U $R1 | samtools view -Sb -F 4 - | samtools sort - -o $BAM`
+`bowtie2 -x $BOWTIEIDX -U $R1 | samtools view -Sb -F 4 - | samtools sort - -o $BAM`
  
- And if you have access to several cores, you can use the option with the number of threads to go faster (e.g. on Computerome 2 you can get up to 40 - if you have requested the resources):
+And if you have access to several cores, you can use the option with the number of threads to go faster (e.g. on Computerome 2 you can get up to 40 - if you have requested the resources):
  
- `bowtie2 -p $NCORES -x $BOWTIEIDX -U $R1 | samtools view -@ $NCORES -Sb -F 4 - | samtools sort -@ $NCORES - -o $BAM`
+`bowtie2 -p $NCORES -x $BOWTIEIDX -U $R1 | samtools view -@ $NCORES -Sb -F 4 - | samtools sort -@ $NCORES - -o $BAM`
  
  
- Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
+Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
  
