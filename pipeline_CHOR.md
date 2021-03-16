@@ -38,6 +38,7 @@ For paired-end, for some reason (that I don't really remember), I use cutadap di
 
 `cutadapt -a CTGTCTCTTATA -A CTGTCTCTTATA -q 20 -m 5 -o $R1trim -p $R2trim $R1 $R2`
 
+
  ### Step 2: Mapping to the reference genome
  
  Let's consider that our reference genome is mouse (mm10). We're going to map the reads with Bowtie2.
