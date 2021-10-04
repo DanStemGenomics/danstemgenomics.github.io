@@ -21,5 +21,6 @@ Login is done via the KU credentials (the 6 characters id and associated passwor
 Resources are managed via Slurm. Please do not do any computing outside slurm.
 If you are not familiar with Slurm, please learn online with this [quick start](https://slurm.schedmd.com/quickstart.html) or something else.
 
+There are some modules installed, which you can see via `module avail`.
 
 Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
