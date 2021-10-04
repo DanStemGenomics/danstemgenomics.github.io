@@ -9,7 +9,7 @@ To start a project, discuss some ideas, ask questions, or anything else related 
 
 The Genomics Platform does not provide computing resources, but can help in getting access and using existing resources:
 - Danish National HPC [Computerome](/computerome/)
-- KU-IT server for DanStem computational experts [DanGPU] (/dangpu/)
+- KU-IT server for DanStem computational experts [DanGPU](/dangpu/)
 
 ### Pipelines
 
