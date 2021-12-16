@@ -18,10 +18,10 @@ Login is done via the KU credentials (the 6 characters id and associated passwor
 
 ### Folder structure
 Here are a few locations to know about:
-1. /home/<ku-id> This is your home. Only you have access. The foder has a quota of 10 Gb. In general, you don't put anything there (maybe a few config files), but rather use the project folder(s) to put your experiments (even if you are the only one working on this project at this time).
-2. /home/<ku-id>/ucph/groupdir/ This is where the unicph network drives you have access to are mounted.
-3. /home/<ku-id>/ucph/securedir This is where the S-drive (for secured data) are mounted.
-4. /project/dan1 This is the (for now only) project that we are all in. We can define more projects later on if we need to split access. It is recommended that you put your files into /project/dan1/people/<ku-id>
+1. /home/\<ku-id\> This is your home. Only you have access. The foder has a quota of 10 Gb. In general, you don't put anything there (maybe a few config files), but rather use the project folder(s) to put your experiments (even if you are the only one working on this project at this time).
+2. /home/\<ku-id\>/ucph/groupdir/ This is where the unicph network drives you have access to are mounted.
+3. /home/\<ku-id\>/ucph/securedir This is where the S-drive (for secured data) are mounted.
+4. /project/dan1 This is the (for now only) project that we are all in. We can define more projects later on if we need to split access. It is recommended that you put your files into /project/dan1/people/\<ku-id\>
 
 ### Resource management with Slurm
 
