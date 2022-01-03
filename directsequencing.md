@@ -17,6 +17,7 @@ This is a sequencing service we provide for scientists who have experience with 
 2. Fill the sequencing request form [here](https://docs.google.com/forms/d/e/1FAIpQLSeSqTGVYCL0nbWNZZjvitcQ5drs0SUI86V3coCqVx7pSmD0FA/viewform)
      * When we ask for the folder name, it is the name of the folder you just created
      * For any additional information, there is a free text field at the end
+     * Regarding the data analysis, if you want the fastq files to process yourself, you select FASTQ, otherwise you can choose one of the existing pipelines (described here soon..). If you need more, then we need a meeting beforehand.
      * After you submit, you will receive your submission by email (on the email you have filled at the top)
 3. We validate the submission (you get the submission_ID)
      * When we receive the request, we look at it and rename the folder with the submission_ID from our database
