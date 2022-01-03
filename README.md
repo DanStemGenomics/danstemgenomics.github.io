@@ -3,7 +3,7 @@
 
 ### Support: Starting a Genomics project
 
-To start a project, discuss some ideas, ask questions, or anything else related to the platform, please contact us via genomics@sund.ku.dk.
+To start a project, discuss some ideas, ask questions, or anything else related to the platform, please contact us via genomics@sund.ku.dk. We take meetings more specifically on Mondays and Thursdays. When you need a meeting, feel free to mention some time constraints you have on those days.
 
 ### Service: Direct sequencing
 
