@@ -1,15 +1,19 @@
 ## Welcome to the Genomics Platform
 
 
-### Starting a Genomics project
+### Support: Starting a Genomics project
 
-To start a project, discuss some ideas, ask questions, or anything else related to the platform, please fill the service request form [here](https://docs.google.com/forms/d/e/1FAIpQLSdDL5n5b9VUTmzlNfrIBBPkMy2vMGx1i1L_gF8Xd82A3EMhiQ/viewform).
+To start a project, discuss some ideas, ask questions, or anything else related to the platform, please contact us via genomics@sund.ku.dk.
+
+### Service: Direct sequencing
+
+If you are already familiar with our direct sequencing process (i.e. we have discussed it together in a meeting and given you all information so that you can use it), you can use the [Direct Sequencing Service](/directsequencing/).
 
 ### Help on Computing
 
 The Genomics Platform does not provide computing resources, but can help in getting access and using existing resources:
 - Danish National HPC [Computerome](/computerome/)
-- KU-IT server for DanStem computational experts [DanGPU](/dangpu/)
+- KU-IT server for computational researchers [DanGPU](/dangpu/)
 
 ### Pipelines
 
