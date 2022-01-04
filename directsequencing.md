@@ -10,11 +10,11 @@ This is a sequencing service we provide for scientists who have experience with 
 
 1. Create your submission folder
      * Connect to the submission folder 
-     * `smb://unicph.domain/groupdir/SUN-DAN-server/DIRECT-SEQUENCING-SUBMISSION/`
-     * If you don't have access, please contact Magali
+       * `smb://unicph.domain/groupdir/SUN-DAN-server/DIRECT-SEQUENCING-SUBMISSION/`
+       * If you don't have access, please contact Magali
      * Create a folder there, typically Application-Name (e.g. SCAR-Valentin) with an index if submitting several runs in a short period of time (e.g. SCAR-Valentin-1, SCAR-Valentin-2)
-     * If already available, place in that folder the Fragement Analyser report and the sample annotation file
-        * (if not available yet, place them as soon as you have them)
+     * Place the Fragement Analyser report and the sample annotation file in that folder
+        * If not available yet, place them as soon as you have them)
         * There is a template for the sample annotation file in the template folder
 2. Fill the sequencing request form [here](https://docs.google.com/forms/d/e/1FAIpQLSeSqTGVYCL0nbWNZZjvitcQ5drs0SUI86V3coCqVx7pSmD0FA/viewform)
      * When we ask for the folder name, it is the name of the folder you just created
