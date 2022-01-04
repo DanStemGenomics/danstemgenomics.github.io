@@ -13,10 +13,13 @@ This is a sequencing service we provide for scientists who have experience with 
      * `smb://unicph.domain/groupdir/SUN-DAN-server/DIRECT-SEQUENCING-SUBMISSION/`
      * If you don't have access, please contact Magali
      * Create a folder there, typically Application-Name (e.g. SCAR-Valentin) with an index if submitting several runs in a short period of time (e.g. SCAR-Valentin-1, SCAR-Valentin-2)
-     * If already available, place in that folder the Fragement Analyser reports and the sample annotation file (if not available yet, place them as soon as you have them)
+     * If already available, place in that folder the Fragement Analyser report and the sample annotation file
+        * (if not available yet, place them as soon as you have them)
+        * There is a template for the sample annotation file in the template folder
 2. Fill the sequencing request form [here](https://docs.google.com/forms/d/e/1FAIpQLSeSqTGVYCL0nbWNZZjvitcQ5drs0SUI86V3coCqVx7pSmD0FA/viewform)
      * When we ask for the folder name, it is the name of the folder you just created
      * For any additional information, there is a free text field at the end
+     * By default, we add PhiX. If you don't want that, please indicate in the final text box.
      * Regarding the data analysis, if you want the fastq files to process yourself, you select FASTQ, otherwise you can choose one of the existing pipelines (described here soon..). If you need more, then we need a meeting beforehand.
      * After you submit, you will receive your submission by email (on the email you have filled at the top)
 3. We validate the submission (you get the submission_ID)
