@@ -7,7 +7,7 @@ To start a project, discuss some ideas, ask questions, or anything else related 
 
 ### Service: Direct sequencing
 
-If you are already familiar with our direct sequencing process (i.e. we have discussed it together in a meeting and given you all information so that you can use it), you can use the [Direct Sequencing Service](/directsequencing/).
+If you are already familiar with our direct sequencing process (i.e. we have discussed it together in a meeting and given you all information so that you can use it), you can use the [Direct Sequencing Service](/directsequencing/). The submission form is [here](https://docs.google.com/forms/d/e/1FAIpQLSeSqTGVYCL0nbWNZZjvitcQ5drs0SUI86V3coCqVx7pSmD0FA/viewform).
 
 ### Help on Computing
 
