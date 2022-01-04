@@ -3,6 +3,7 @@
 ### What is it?
 This is a sequencing service we provide for scientists who have experience with sequencing and are doing regular sequencing with the platform without needing much support from us.
 
+* We suggest that the request is send at least 4 days in advance of the pool being ready (ideally a week) so we can plan accordingly (kit, sequencing time slot, check files) and address your request asap when the pool is in the freezer
 * Each submission is independant and typically corresponds to one sequencing run
 * In some cases, if you don't need the full output of a run, we can pool 2 submissions together (we talk about that on email)
 * If delay in lib prep, a sequencing request can be postponed to the following week, but not more. In that case it is cancelled and resubmitted when the libraries are close to ready.
