@@ -12,7 +12,7 @@ This is a sequencing service we provide for scientists who have experience with 
 
 1. Create your submission folder
      * Connect to the submission folder 
-       * `smb://unicph.domain/groupdir/SUN-DAN-server/DIRECT-SEQUENCING-SUBMISSION/`
+       * `smb://unicph.domain/groupdir/SUN-CPR-genomics-users/DIRECT-SEQUENCING-SUBMISSION/`
        * If you don't have access, please contact Magali
      * Create a folder
        * Typically Application-Name (e.g. SCAR-Valentin) 
