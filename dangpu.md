@@ -1,7 +1,7 @@
 ## How to use DanGPU
 
 ### What is DanGPU
-DanGPU is a server bought by DanStem and administered by KU-IT for computational experts needing to connect large datasets stored on KU-IT storage to compute (including GPU). It is primarily based at image data analysis.
+DanGPU is a server bought by DanStem and administered by KU-IT for computational experts needing to connect large datasets stored on KU-IT storage to compute (DL580, 120 CPU cores, 4 GPUs RTX8000, RedHat). It is primarily based at image data analysis.
 
 ### KU-IT support
 For support, please create a ticket in the [sd system](http://sd.ku.dk/).
