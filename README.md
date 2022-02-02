@@ -21,3 +21,9 @@ The Genomics Platform does not provide computing resources, but can help in gett
 
 - [CHOR-seq / SCAR-seq](/pipeline_CHOR/)
 - [bulk RNA-seq](/pipeline_RNA/)
+
+### Acknowledgments
+
+- Remember to acknowledge the platform on your publications and other dissemination materials: “The Novo Nordisk Foundation Center for Stem Cell Medicine, reNEW, is supported by a Novo Nordisk Foundation grant number NNF21CC0073729” (or the CPR one if you are at CPR). 
+- If Computerome has been used at any point, it should appear in the acknowledgements: “Data processing and analysis were performed using the DeiC National Life Science Supercomputer at DTU (www.computerome.dk)” as mentioned on Deic website https://vidensportal.deic.dk/en/publications/acknowledgements
+- Please send us your manuscript before you submit so we can follow the timelines of the various projects we are supporting (and report on our impact), as well as review the technical details
