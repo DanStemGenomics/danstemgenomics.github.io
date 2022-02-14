@@ -7,6 +7,8 @@ To start a project, discuss some ideas, ask questions, or anything else related 
 
 To book an instrument on the platform (e.g. bench, Fragment Analyser, 10X), please create an [account on PPMS](https://ppms.eu/ku/login/?pf=2) and then [email us](mailto:genomics@sund.ku.dk) so we can add the instruments to your account.
 
+Please join the Genomics Platform channel on the reNEW slack (if you don't have access to the slack yet, please email us)
+
 ### Service: Direct sequencing
 
 If you are already familiar with our direct sequencing process (i.e. we have discussed it together in a meeting and given you all information so that you can use it), you can use the [Direct Sequencing Service](/directsequencing/). The submission form is [here](https://docs.google.com/forms/d/e/1FAIpQLSeSqTGVYCL0nbWNZZjvitcQ5drs0SUI86V3coCqVx7pSmD0FA/viewform).
