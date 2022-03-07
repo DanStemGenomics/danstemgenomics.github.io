@@ -5,7 +5,7 @@
 
 To start a project, discuss some ideas, ask questions, or anything else related to the platform, please contact us via [genomics@sund.ku.dk](mailto:genomics@sund.ku.dk). We take meetings more specifically on Mondays and Thursdays. When you need a meeting, feel free to mention some time constraints you have on those days.
 
-To book an instrument on the platform (e.g. bench, Fragment Analyser, 10X), please create an [account on PPMS](https://ppms.eu/ku/login/?pf=2) and then [email us](mailto:genomics@sund.ku.dk) so we can add the instruments to your account.
+To book an instrument on the platform (e.g. bench, Fragment Analyser, 10X), please create an [account on PPMS](http://ppms.eu/ku/?Genomics) and then [email us](mailto:genomics@sund.ku.dk) so we can add the instruments to your account.
 
 Please join the Genomics Platform channel on the reNEW slack (if you don't have access to the slack yet, please email us)
 
