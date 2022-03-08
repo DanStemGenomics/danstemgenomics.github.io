@@ -30,4 +30,8 @@ If you are not familiar with Slurm, please learn online with this [quick start](
 
 There are some modules installed, which you can see via `module avail`.
 
+### Rstudio
+
+You can access Rstudio here: [http://dangpu01fl:8787/]
+
 Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
