@@ -26,13 +26,12 @@ Here are a few locations to know about:
 ### Resource management with Slurm
 
 Resources are managed via Slurm. Please do not do any computing outside slurm.
-If you are not familiar with Slurm, please learn online with this [quick start](https://slurm.schedmd.com/quickstart.html) or something else.
+Before running anything on the server, check the status following the steps described in the slides here: /Volumes/SUN-DAN-server/SHARED/2022-03-15_dangpu-meeting-server-basics.pdf
+If you are not familiar with Slurm, you can find some basic info in the slides and learn online with this [quick start](https://slurm.schedmd.com/quickstart.html) or something else.
 
 ### Rstudio
 
 You can access Rstudio here: [http://dangpu01fl:8787/](http://dangpu01fl:8787/).
-
-Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
 
 ### Software
 
@@ -42,3 +41,5 @@ Here some software you might miss:
 * cutadapt: module load miniconda/4.10.4 ; conda activate cutadaptenv
 * refgenie: module load miniconda/4.10.4 refgenie/0.12.1 (might need to define the REFGENIE variable)
 * TEtranscripts: module load anaconda3/2021.11 tetranscripts/2.2.1
+
+Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
